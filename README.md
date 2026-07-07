@@ -1,3 +1,8 @@
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Elhoussaine SABRI</h1>
 <h3 align="center">Just call me Tobi — Industrial Management student @ EMINES-UM6P 🇲🇦</h3>
 
@@ -5,10 +10,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="0" width="0" />
 </p>
 - 🎓 Studying at **EMINES School of Industrial Management (UM6P)**, Ben Guerir, Morocco
+
 - 🤝 Active member of **E++**
+- 
 - 🌱 Currently learning **SQL**
+- 
 - 🔧 I like working across the stack: firmware (Arduino), web interfaces (React/Vite), and technical documentation (LaTeX)
+- 
 - 🎯 Goals:keep sharpening full-stack + embedded skills
+- 
 - 🎲 Fun fact: Ana shl7
 
 <h3 align="left">Connect with me:</h3>
@@ -89,18 +99,6 @@
 </tr>
 </table>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/endtobi7/endtobi7/pacman-output/pacman-contribution-graph.svg?game=pacman" alt="pacman contribution graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/endtobi7/endtobi7/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/endtobi7/endtobi7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 
 ###
 
