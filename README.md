@@ -100,8 +100,15 @@
 </table>
 
 
-###
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Endtobi7&show_icons=true&theme=radical" alt="le moi's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endtobi7&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+###
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
