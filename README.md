@@ -12,13 +12,13 @@
 - 🎓 Studying at **EMINES School of Industrial Management (UM6P)**, Ben Guerir, Morocco
 
 - 🤝 Active member of **E++**
-- 
+  
 - 🌱 Currently learning **SQL**
-- 
+  
 - 🔧 I like working across the stack: firmware (Arduino), web interfaces (React/Vite), and technical documentation (LaTeX)
-- 
+  
 - 🎯 Goals:keep sharpening full-stack + embedded skills
-- 
+  
 - 🎲 Fun fact: Ana shl7
 
 <h3 align="left">Connect with me:</h3>
